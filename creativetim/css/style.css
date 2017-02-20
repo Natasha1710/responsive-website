@@ -1,0 +1,106 @@
+body{
+  padding-top: 20px;
+  padding-left: 10px;
+  background-color: #D0D3D4;
+}
+#map {
+        height: 400px;
+        width: 100%;
+       }
+.img-circle{
+  height: 150px;
+  width: 150px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+.send{
+  font-size: 130%;
+  border-color: #335BFF;
+  text-align: right;
+  margin-left: 620px;
+}
+.img2{
+  height: 320px;
+  width: 320px;
+}
+.style1 {
+	border-top: 3px double #8c8b8b;
+}
+.style2{
+  height: 2px;
+}
+.number{
+  font-size: 40px;
+  margin-top: 50px;
+  color: red;
+  display: block;
+}
+.modifybtn
+{
+  border-radius: 30px;
+}
+.views{
+  background-image: url("http://i.imgur.com/pBD61m2.jpg?1");
+  background-size: 150% 100%;
+}
+.people{
+  font-size: 400%;
+  padding-top: 20px;
+  color: red;
+  text-align: center;
+}
+.project{
+  font-size: 30px;
+}
+.image{
+  height: 300px;
+  width: 350px;
+}
+.image{
+  padding: 0 0 20px 0;
+}
+.icons{
+  border-radius: 50px;
+  display: block;
+  text-align: center;
+  height: 100px;
+  margin: 0 auto 20px;
+  text-align: center;
+  width: 100px;
+  color:#ffc400;
+}
+.title{
+  background-image: url(http://sachtechsolution.com/wp-content/uploads/2015/01/HD-Web-Services-Banner-2.jpg);
+  height: 500px;
+  background-size: 100% 100%;
+  font-size: 100px;
+}
+.main{
+  font-size: 150px;
+  color: #273746;
+  font-family: 'Kaushan Script', cursive;
+}
+.fa-facebook-square:hover{
+  color: #3b5998;
+  }
+
+.fa-twitter-square:hover{
+  color: #0084b4;
+  }
+
+.fa-linkedin-square:hover{
+  color: #0077B5;
+  }
+
+.fa-google-plus-square:hover{
+  color: #d34836;
+  }
+.bg-black
+{
+  background-color: black;
+  font-size: 30px;
+}
+.thumbnail:hover{
+  border-color: black;
+}
